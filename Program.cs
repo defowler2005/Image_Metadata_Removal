@@ -8,15 +8,23 @@ namespace ImageMetadataRemoval
     {
         private static void Main(string[] args)
         {
-            string[] imageExtensions = { ".jpg", ".jpeg", ".png", ".bmp", ".gif", ".tiff" };
+            string[] imageExtensions = [".jpg", ".jpeg", ".png", ".bmp", ".gif", ".tiff"];
             string currentDirectory = Directory.GetCurrentDirectory();
 
             if (args.Length > 0)
             {
                 string fileToModify = args[0].Trim();
 
-                if (File.Exists(fileToModify) && imageExtensions.Contains(Path.GetExtension(fileToModify).ToLower())) ProcessImage(fileToModify, currentDirectory);
-                else MessageBox.Show("That file either does not exist or is an un-supported.");
+                if (imageExtensions.Contains(Path.GetExtension(fileToModify).ToLower()))
+                {
+                    if (File.Exists(fileToModify))
+                    {
+                        ProcessImage(fileToModify, currentDirectory);
+                        MessageBox.Show("The image you set has been cleaned and is safe to be uploaded to the web.", "Data cleared up!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    else MessageBox.Show($"The file you speak of does not exist!");
+                }
+                else MessageBox.Show($"That file is un-supported file format. Please upload an image with either the following extensions: \n\n" + string.Join(", ", imageExtensions));
             }
             else
             {
@@ -51,7 +59,7 @@ namespace ImageMetadataRemoval
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"An error occurred while processing {inputPath}\n{ex.Message}");
+                Console.WriteLine($"An error occurred while processing {Path.GetFileNameWithoutExtension(inputPath)}\n{ex.Message}");
             }
         }
     }

@@ -1,0 +1,18 @@
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\bin\Debug\net8.0-windows\Image Metadata Removal.exe
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\bin\Debug\net8.0-windows\Image Metadata Removal.deps.json
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\bin\Debug\net8.0-windows\Image Metadata Removal.runtimeconfig.json
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\bin\Debug\net8.0-windows\Image Metadata Removal.dll
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\bin\Debug\net8.0-windows\Image Metadata Removal.pdb
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.csproj.AssemblyReference.cache
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.AssemblyInfoInputs.cache
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.AssemblyInfo.cs
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.csproj.CoreCompileInputs.cache
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.sourcelink.json
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Me.C726EC06.Up2Date
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.dll
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\refint\Image Metadata Removal.dll
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.pdb
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\Image Metadata Removal.genruntimeconfig.cache
+E:\Programming Related\Visual_Studio_Projects\Image_Metadata_Removal\obj\Debug\net8.0-windows\ref\Image Metadata Removal.dll
