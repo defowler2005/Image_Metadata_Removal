@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageMetadataRemoval")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798f1a682ae3d72ac6b833821832ce2027821cb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d187f596cbb98aff5c6d46aba7d2683f6557ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageMetadataRemoval")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageMetadataRemoval")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
