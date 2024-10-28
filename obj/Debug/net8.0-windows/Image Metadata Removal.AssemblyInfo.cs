@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Image Metadata Removal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798f1a682ae3d72ac6b833821832ce2027821cb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9624e12d70e56425170dee24561b4088fd336a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Image Metadata Removal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Image Metadata Removal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

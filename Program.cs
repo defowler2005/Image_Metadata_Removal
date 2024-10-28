@@ -2,7 +2,7 @@ using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Metadata.Profiles.Exif;
 using Image = SixLabors.ImageSharp.Image;
 
-namespace ImageMetadataRemoval
+namespace Image_Metadata_Removal
 {
     public static class Program
     {
